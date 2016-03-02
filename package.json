@@ -1,0 +1,21 @@
+{
+  "name": "user",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajveer singh",
+  "license": "BSD",
+  "dependencies": {
+    "mysql": "~2.10.2",
+    "http": "0.0.0",
+    "express": "~4.13.4",
+    "qs": "~6.1.0",
+    "fs": "0.0.2",
+    "body-parser": "~1.15.0",
+    "trim": "0.0.1",
+    "string": "~3.3.1"
+  }
+}
